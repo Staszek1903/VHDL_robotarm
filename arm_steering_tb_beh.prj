@@ -1,0 +1,2 @@
+vhdl work "arm_steering.vhd"
+vhdl work "arm_steering_tb.vhd"

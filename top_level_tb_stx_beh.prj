@@ -1,0 +1,6 @@
+vhdl isim_temp "UART_TX.vhd"
+vhdl isim_temp "UART_RX.vhd"
+vhdl isim_temp "timer.vhd"
+vhdl isim_temp "display_driver.vhd"
+vhdl isim_temp "top_level.vhd"
+vhdl isim_temp "top_level_tb.vhd"

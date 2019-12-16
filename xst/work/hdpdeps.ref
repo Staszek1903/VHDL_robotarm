@@ -1,0 +1,54 @@
+V3 31
+FL E:/programowanie/xilinx_projects/project_SW/arm_steering.vhd 2019/12/16.20:43:50 P.20131013
+EN work/arm_steering 1576529282 \
+      FL E:/programowanie/xilinx_projects/project_SW/arm_steering.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/arm_steering/Behavioral 1576529283 \
+      FL E:/programowanie/xilinx_projects/project_SW/arm_steering.vhd \
+      EN work/arm_steering 1576529282
+FL E:/programowanie/xilinx_projects/project_SW/comparator.vhd 2019/12/11.18:48:30 P.20131013
+EN work/comparator 1576529276 \
+      FL E:/programowanie/xilinx_projects/project_SW/comparator.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/comparator/Behavioral 1576529277 \
+      FL E:/programowanie/xilinx_projects/project_SW/comparator.vhd \
+      EN work/comparator 1576529276
+FL E:/programowanie/xilinx_projects/project_SW/display_driver.vhd 2019/10/13.12:24:09 P.20131013
+EN work/display_driver 1576529284 \
+      FL E:/programowanie/xilinx_projects/project_SW/display_driver.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/display_driver/Behavioral 1576529285 \
+      FL E:/programowanie/xilinx_projects/project_SW/display_driver.vhd \
+      EN work/display_driver 1576529284
+FL E:/programowanie/xilinx_projects/project_SW/pwm_module.vhd 2019/12/16.21:39:21 P.20131013
+EN work/pwm_module 1576529286 \
+      FL E:/programowanie/xilinx_projects/project_SW/pwm_module.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/pwm_module/Behavioral 1576529287 \
+      FL E:/programowanie/xilinx_projects/project_SW/pwm_module.vhd \
+      EN work/pwm_module 1576529286 CP timer CP comparator
+FL E:/programowanie/xilinx_projects/project_SW/timer.vhd 2019/12/11.18:53:46 P.20131013
+EN work/timer 1576529274 FL E:/programowanie/xilinx_projects/project_SW/timer.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/timer/Behavioral 1576529275 \
+      FL E:/programowanie/xilinx_projects/project_SW/timer.vhd EN work/timer 1576529274
+FL E:/programowanie/xilinx_projects/project_SW/top_level.vhd 2019/12/16.21:47:47 P.20131013
+EN work/top_level 1576529288 \
+      FL E:/programowanie/xilinx_projects/project_SW/top_level.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/top_level/Behavioral 1576529289 \
+      FL E:/programowanie/xilinx_projects/project_SW/top_level.vhd \
+      EN work/top_level 1576529288 CP UART_TX CP UART_RX CP arm_steering \
+      CP display_driver CP pwm_module
+FL E:/programowanie/xilinx_projects/project_SW/UART_RX.vhd 2019/12/07.21:25:43 P.20131013
+EN work/UART_RX 1576529280 \
+      FL E:/programowanie/xilinx_projects/project_SW/UART_RX.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/UART_RX/Behavioral 1576529281 \
+      FL E:/programowanie/xilinx_projects/project_SW/UART_RX.vhd EN work/UART_RX 1576529280
+FL E:/programowanie/xilinx_projects/project_SW/UART_TX.vhd 2019/12/04.18:08:12 P.20131013
+EN work/UART_TX 1576529278 \
+      FL E:/programowanie/xilinx_projects/project_SW/UART_TX.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/UART_TX/Behavioral 1576529279 \
+      FL E:/programowanie/xilinx_projects/project_SW/UART_TX.vhd EN work/UART_TX 1576529278

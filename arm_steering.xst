@@ -1,0 +1,5 @@
+set -tmpdir "E:/programowanie/xilinx_projects/project_SW/xst/projnav.tmp"
+set -xsthdpdir "E:/programowanie/xilinx_projects/project_SW/xst"
+elaborate
+-ifn arm_steering.prj
+-ifmt mixed

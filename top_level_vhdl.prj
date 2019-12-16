@@ -1,0 +1,8 @@
+vhdl work "E:\programowanie\xilinx_projects\project_SW\timer.vhd"
+vhdl work "E:\programowanie\xilinx_projects\project_SW\comparator.vhd"
+vhdl work "E:\programowanie\xilinx_projects\project_SW\UART_TX.vhd"
+vhdl work "E:\programowanie\xilinx_projects\project_SW\UART_RX.vhd"
+vhdl work "E:\programowanie\xilinx_projects\project_SW\pwm_module.vhd"
+vhdl work "E:\programowanie\xilinx_projects\project_SW\display_driver.vhd"
+vhdl work "E:\programowanie\xilinx_projects\project_SW\arm_steering.vhd"
+vhdl work "E:\programowanie\xilinx_projects\project_SW\top_level.vhd"

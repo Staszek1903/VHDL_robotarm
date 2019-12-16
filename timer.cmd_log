@@ -1,0 +1,3 @@
+vhdtdtfi -prj project_SW -o E:/programowanie/xilinx_projects/project_SW/timer.vhi -module timer -template E:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work timer.vhd 
+vhdtdtfi -prj project_SW -o E:/programowanie/xilinx_projects/project_SW/timer.vhi -module timer -template E:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work timer.vhd 
+vhdtdtfi -prj project_SW -o E:/programowanie/xilinx_projects/project_SW/timer.vhi -module timer -template E:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work timer.vhd 

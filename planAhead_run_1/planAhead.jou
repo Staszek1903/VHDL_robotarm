@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# PlanAhead v14.7 (64-bit)
+# Build 321239 by xbuild on Fri Sep 27 19:29:51 MDT 2013
+# Start of session at: Sun Dec 08 17:50:58 2019
+# Process ID: 12512
+# Log file: E:/programowanie/xilinx_projects/project_SW/planAhead_run_1/planAhead.log
+# Journal file: E:/programowanie/xilinx_projects/project_SW/planAhead_run_1/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source E:/programowanie/xilinx_projects/project_SW/pa.fromNetlist.tcl

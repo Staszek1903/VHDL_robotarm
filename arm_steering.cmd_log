@@ -1,0 +1,2 @@
+vhdtdtfi -prj project_SW -o E:/programowanie/xilinx_projects/project_SW/arm_steering.vhi -module arm_steering -template E:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work arm_steering.vhd 
+vhdtdtfi -prj project_SW -o E:/programowanie/xilinx_projects/project_SW/arm_steering.vhi -module arm_steering -template E:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work arm_steering.vhd 

@@ -1,0 +1,1 @@
+vhdtdtfi -prj project_SW -o E:/programowanie/xilinx_projects/project_SW/display_driver.vhi -module display_driver -template E:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work display_driver.vhd 

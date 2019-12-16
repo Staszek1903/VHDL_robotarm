@@ -1,0 +1,29 @@
+Release 14.7 - ngc2edif P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+Reading design top_level.ngc ...
+WARNING:NetListWriters:298 - No output is written to top_level.xncf, ignored.
+Processing design ...
+   Preping design's networks ...
+   Preping design's macros ...
+WARNING:NetListWriters:306 - Signal bus Mcompar_counter0_cmp_gt0000_lut<11 : 0>
+   on block top_level is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus Mcompar_pwm1_cmp_le0000_lut<6 : 0> on
+   block top_level is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus Mcompar_pwm2_cmp_le0000_lut<6 : 0> on
+   block top_level is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus Mcompar_pwm3_cmp_le0000_lut<6 : 0> on
+   block top_level is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus rx/Mcompar_trans_en_cmp_lt0000_lut<5 :
+   0> on block top_level is not reconstructed, because there are some missing
+   bus signals.
+WARNING:NetListWriters:306 - Signal bus tx/Mcompar_trans_state_cmp_lt0001_lut<5
+   : 0> on block top_level is not reconstructed, because there are some missing
+   bus signals.
+  finished :Prep
+Writing EDIF netlist file top_level.edif ...
+ngc2edif: Total memory usage is 4315472 kilobytes
+

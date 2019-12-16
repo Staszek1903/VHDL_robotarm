@@ -1,0 +1,19 @@
+Running: E:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o E:/programowanie/xilinx_projects/project_SW/arm_steering_tb_isim_beh.exe -prj E:/programowanie/xilinx_projects/project_SW/arm_steering_tb_beh.prj work.arm_steering_tb 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "E:/programowanie/xilinx_projects/project_SW/arm_steering.vhd" into library work
+Parsing VHDL file "E:/programowanie/xilinx_projects/project_SW/arm_steering_tb.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling architecture behavioral of entity arm_steering [arm_steering_default]
+Compiling architecture behavior of entity arm_steering_tb
+Time Resolution for simulation is 1ps.
+Compiled 6 VHDL Units
+Built simulation executable E:/programowanie/xilinx_projects/project_SW/arm_steering_tb_isim_beh.exe
+Fuse Memory Usage: 35504 KB
+Fuse CPU Usage: 436 ms

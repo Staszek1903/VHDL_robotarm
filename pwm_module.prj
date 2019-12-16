@@ -1,0 +1,3 @@
+vhdl work "timer.vhd"
+vhdl work "comparator.vhd"
+vhdl work "pwm_module.vhd"

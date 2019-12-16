@@ -1,0 +1,16 @@
+AR uart_rx behavioral E:/programowanie/xilinx_projects/project_SW/UART_RX.vhd sub00/vhpl09 1576529281
+AR pwm_module behavioral E:/programowanie/xilinx_projects/project_SW/pwm_module.vhd sub00/vhpl13 1576529287
+AR top_level behavioral E:/programowanie/xilinx_projects/project_SW/top_level.vhd sub00/vhpl03 1576529289
+EN arm_steering NULL E:/programowanie/xilinx_projects/project_SW/arm_steering.vhd sub00/vhpl14 1576529282
+AR arm_steering behavioral E:/programowanie/xilinx_projects/project_SW/arm_steering.vhd sub00/vhpl15 1576529283
+EN display_driver NULL E:/programowanie/xilinx_projects/project_SW/display_driver.vhd sub00/vhpl00 1576529284
+EN pwm_module NULL E:/programowanie/xilinx_projects/project_SW/pwm_module.vhd sub00/vhpl12 1576529286
+AR timer behavioral E:/programowanie/xilinx_projects/project_SW/timer.vhd sub00/vhpl05 1576529275
+AR uart_tx behavioral E:/programowanie/xilinx_projects/project_SW/UART_TX.vhd sub00/vhpl07 1576529279
+EN comparator NULL E:/programowanie/xilinx_projects/project_SW/comparator.vhd sub00/vhpl10 1576529276
+AR display_driver behavioral E:/programowanie/xilinx_projects/project_SW/display_driver.vhd sub00/vhpl01 1576529285
+AR comparator behavioral E:/programowanie/xilinx_projects/project_SW/comparator.vhd sub00/vhpl11 1576529277
+EN uart_rx NULL E:/programowanie/xilinx_projects/project_SW/UART_RX.vhd sub00/vhpl08 1576529280
+EN top_level NULL E:/programowanie/xilinx_projects/project_SW/top_level.vhd sub00/vhpl02 1576529288
+EN timer NULL E:/programowanie/xilinx_projects/project_SW/timer.vhd sub00/vhpl04 1576529274
+EN uart_tx NULL E:/programowanie/xilinx_projects/project_SW/UART_TX.vhd sub00/vhpl06 1576529278

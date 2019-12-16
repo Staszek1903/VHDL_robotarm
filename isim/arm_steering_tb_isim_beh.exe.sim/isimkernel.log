@@ -1,0 +1,29 @@
+Command line:
+   arm_steering_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  50677
+
+Mon Dec 16 20:45:16 2019
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 5159.98 Meg
+
+ Total Signals          : 21
+ Total Nets             : 52
+ Total Signal Drivers   : 13
+ Total Blocks           : 4
+ Total Primitive Blocks : 3
+ Total Processes        : 8
+ Total Traceable Variables  : 14
+ Total Scalar Nets and Variables : 536
+Total Line Count : 89
+
+ Total Simulation Time: 0.15625 sec
+
+ Current Memory Usage: 5474.55 Meg
+
+Mon Dec 16 20:46:03 2019
+

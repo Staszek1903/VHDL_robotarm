@@ -1,0 +1,2 @@
+vhdl isim_temp "arm_steering.vhd"
+vhdl isim_temp "arm_steering_tb.vhd"

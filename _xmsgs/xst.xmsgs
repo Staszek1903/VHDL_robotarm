@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">E:/programowanie/xilinx_projects/project_SW/top_level.vhd</arg>&quot; line <arg fmt="%d" index="2">191</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">d_state</arg>&apos; of component &apos;<arg fmt="%s" index="4">arm_steering</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="old" >&quot;<arg fmt="%s" index="1">E:/programowanie/xilinx_projects/project_SW/pwm_module.vhd</arg>&quot; line <arg fmt="%d" index="2">91</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">eq</arg>&apos; of component &apos;<arg fmt="%s" index="4">comparator</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="old" >&quot;<arg fmt="%s" index="1">E:/programowanie/xilinx_projects/project_SW/pwm_module.vhd</arg>&quot; line <arg fmt="%d" index="2">91</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">gt</arg>&apos; of component &apos;<arg fmt="%s" index="4">comparator</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="old" >&quot;<arg fmt="%s" index="1">E:/programowanie/xilinx_projects/project_SW/pwm_module.vhd</arg>&quot; line <arg fmt="%d" index="2">99</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">eq</arg>&apos; of component &apos;<arg fmt="%s" index="4">comparator</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="old" >&quot;<arg fmt="%s" index="1">E:/programowanie/xilinx_projects/project_SW/pwm_module.vhd</arg>&quot; line <arg fmt="%d" index="2">99</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">gt</arg>&apos; of component &apos;<arg fmt="%s" index="4">comparator</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="old" >&quot;<arg fmt="%s" index="1">E:/programowanie/xilinx_projects/project_SW/pwm_module.vhd</arg>&quot; line <arg fmt="%d" index="2">107</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">eq</arg>&apos; of component &apos;<arg fmt="%s" index="4">comparator</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="old" >&quot;<arg fmt="%s" index="1">E:/programowanie/xilinx_projects/project_SW/pwm_module.vhd</arg>&quot; line <arg fmt="%d" index="2">107</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">gt</arg>&apos; of component &apos;<arg fmt="%s" index="4">comparator</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="old" >&quot;<arg fmt="%s" index="1">E:/programowanie/xilinx_projects/project_SW/pwm_module.vhd</arg>&quot; line <arg fmt="%d" index="2">115</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">eq</arg>&apos; of component &apos;<arg fmt="%s" index="4">comparator</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="old" >&quot;<arg fmt="%s" index="1">E:/programowanie/xilinx_projects/project_SW/pwm_module.vhd</arg>&quot; line <arg fmt="%d" index="2">115</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">gt</arg>&apos; of component &apos;<arg fmt="%s" index="4">comparator</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="old" >Signal &lt;<arg fmt="%s" index="1">uart_busy</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">prev_new_data</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">Inst_arm_steering</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;data_read&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">prev_new_data</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">arm_steering</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;data_read&gt; </arg>
+</msg>
+
+</messages>
+

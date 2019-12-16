@@ -1,0 +1,8 @@
+vhdl work "timer.vhd"
+vhdl work "comparator.vhd"
+vhdl work "UART_TX.vhd"
+vhdl work "UART_RX.vhd"
+vhdl work "pwm_module.vhd"
+vhdl work "display_driver.vhd"
+vhdl work "arm_steering.vhd"
+vhdl work "top_level.vhd"

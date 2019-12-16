@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=E:\programowanie\xilinx_projects\project_SW\top_level.ncd
+OUTFILE=E:\programowanie\xilinx_projects\project_SW\top_level.bit
+FAMILY=Spartan3A and Spartan3AN
+PART=xc3s50a-5tq144
+WORKINGDIR=E:\programowanie\xilinx_projects\project_SW
+LICENSE=WebPack
+USER_INFO=211773706_0_0_470
